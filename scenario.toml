@@ -3,14 +3,14 @@ agentbeats_id = "019bbc56-29c0-7642-b9e2-3208a5b17e96"
 env = {GEMINI_API_KEY = "${GEMINI_API_KEY}"}
 
 [[participants]]
-agentbeats_id = "019bc328-76b5-7073-b959-1a89a4302563"
-name = "dummy-gemini-2.5-flash"
+agentbeats_id = "019bbe9c-1e2e-7da1-85c8-b295d68f7e27"
+name = "dummy-gemini-2.5-flash-lite"
 env = {GEMINI_API_KEY = "${GEMINI_API_KEY}"}
 
 [config]
 # Evaluation settings
 max_concurrent_rows = 5 # Number of dataset rows to process in parallel
-max_rows = -1  # Number of dataset rows to process (-1 for all rows)
+max_rows = 50  # Number of dataset rows to process (-1 for all rows)
 
 # Model configuration
 green_agent_model = "gemini/gemini-2.5-flash-lite"  # Model used by the green agent
