@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/cogian/agentbeats-swe-verified@sha256:bedbc030e7f7bd2664de78e69fabff4f2cec7a5190a16bc3ada980d3e7ecc199",
+    "dummy-gemini-2.5-pro": "ghcr.io/cogian/agentbeats-swe-verified-dummy-gemini-2.5-pro@sha256:7797a54a39a945f9f300f382b35d251f2a5dd1d99284066e7f81637fc60771ed",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-15T23:46:19Z",
+  "github_actions": {
+    "run_url": "https://github.com/CoGian/agentbeats-swe-verified-leaderboard/actions/runs/21049686345",
+    "run_logs_url": "https://api.github.com/repos/CoGian/agentbeats-swe-verified-leaderboard/actions/runs/21049686345/logs",
+    "ref": "refs/heads/dummy-gemini-2.5-pro",
+    "sha": "d0f38764f85a4c5f0274ec3e9afdd63d69cfd7a4",
+    "repository_url": "https://github.com/CoGian/agentbeats-swe-verified-leaderboard",
+    "workflow_ref": "CoGian/agentbeats-swe-verified-leaderboard/.github/workflows/run-scenario.yml@refs/heads/dummy-gemini-2.5-pro",
+    "workflow_sha": "d0f38764f85a4c5f0274ec3e9afdd63d69cfd7a4"
+  }
+}
