@@ -3,7 +3,7 @@ agentbeats_id = "019bbc56-29c0-7642-b9e2-3208a5b17e96"
 env = {GEMINI_API_KEY = "${GEMINI_API_KEY}"}
 
 [[participants]]
-agentbeats_id = "019bbe9c-1e2e-7da1-85c8-b295d68f7e27"
+agentbeats_id = "019bc328-76b5-7073-b959-1a89a4302563"
 name = "dummy-gemini-2.5-flash"
 env = {GEMINI_API_KEY = "${GEMINI_API_KEY}"}
 
