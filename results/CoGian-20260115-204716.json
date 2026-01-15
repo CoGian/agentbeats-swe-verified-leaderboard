@@ -1,0 +1,20 @@
+{
+  "participants": {
+    "dummy-gemini-2.5-pro": "019bc33a-a396-79b1-8655-2f157fb6b7c3"
+  },
+  "results": [
+    {
+      "total_instances": 20,
+      "resolved_pct": 0.0,
+      "breaking_resolved_pct": 0.0,
+      "partially_resolved_pct": 0.0,
+      "work_in_progress_pct": 0.0,
+      "regression_pct": 0.35,
+      "no_op_pct": 0.55,
+      "error_pct": 0.1,
+      "fail_to_pass_passed_pct": 0.0,
+      "pass_to_pass_passed_pct": 0.0,
+      "green_agent_model": "gemini/gemini-2.5-flash-lite"
+    }
+  ]
+}
